@@ -6,6 +6,6 @@
 
 #### 2.retrain.py是训练数据的py文件
 #### 3.test.py是测试数据的py文件
-####4.bottleneck_data是训练数据而产生的文件。里面是训练文件里的图片数据的txt格式。
+#### 4.bottleneck_data是训练数据而产生的文件。里面是训练文件里的图片数据的txt格式。
 #### 5.model文件是训练时从网上加载的资源。tensorboard_logs也是类似
 
